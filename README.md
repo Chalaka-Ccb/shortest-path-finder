@@ -37,7 +37,11 @@ my_graph = {
     'E': [('A', 11), ('C', 5), ('D', 9)],
     'F': [('B', 2), ('D', 3)]
 }
-"📁 Example Graph Input"
+(change with any graph with you want)
+
+
+
+To Run--
 python shortest_path.py
 
 👨‍💻 Author
